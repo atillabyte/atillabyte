@@ -32,7 +32,7 @@
 # EEmulator - a complete hack to play Everybody Edits worlds fully offline, or through LAN or online. (.NET)
 ```
 <p align="center">
-  <img src="https://i.imgur.com/NgODlWy.jpg" width="200px" height="200px">
+  <img src="https://i.imgur.com/pLoTlUa.png" width="200px" height="200px">
   <samp><br>
      Contact me on <a href="https://twitter.com/atillabyte">Twitter</a> or on <a href="miou#1337">Discord</a> if you'd like.
   </samp>
