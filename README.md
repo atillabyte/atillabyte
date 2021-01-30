@@ -28,7 +28,7 @@
 + Projects
 # Minty - an open source and viable alternative to Player.IO for creators to manage their own infrastructure. (.NET)
 # TSON - a JSON-esque format with the idea of preserving type information. (.NET)
-# DragonSpeak / PythonSpeak - implementations of Furcadia's easy-to-learn event-structured scripting language.
+# DragonSpeak / PythonSpeak - implementations of Furcadia's easy-to-learn event-structured scripting language. (.NET, Python)
 # EEmulator - a complete hack to play Everybody Edits worlds fully offline, or through LAN or online. (.NET)
 ```
 <p align="center">
